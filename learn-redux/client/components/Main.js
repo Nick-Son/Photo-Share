@@ -8,6 +8,7 @@ const Main = React.createClass({
 				<h1>
 					<Link to="/">PhotoShare</Link>
 				</h1>
+				 {/* This passes props down from Main to the first child*/}
 				{ React.cloneElement(this.props.children, this.props)}
 			</div>
 			)
