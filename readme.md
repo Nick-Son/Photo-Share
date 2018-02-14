@@ -31,8 +31,6 @@ Pull requests that fix dependencies between the videos and this repo are welcome
 
 **A:** I made a video for [exactly this](https://www.youtube.com/watch?v=-eUd2k5M1B0). 
 
-### Q: What theme and font are you using?
 
-**A:** Cobalt2 and Operator Mono. I wrote a bit of info here → <http://wesbos.com/uses>
 
 
